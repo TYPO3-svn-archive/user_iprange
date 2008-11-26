@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext: "beuser_iprange"
 #
-# Auto generated 26-11-2008 23:45
+# Auto generated 26-11-2008 23:53
 #
 # Manual updates:
 # Only the data in the array - anything else is removed by next write.
@@ -29,7 +29,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 1,
 	'lockType' => '',
 	'author_company' => '',
-	'version' => '0.0.0',
+	'version' => '0.0.1',
 	'constraints' => array(
 		'depends' => array(
 			'php' => '5.2-0.0.0',
